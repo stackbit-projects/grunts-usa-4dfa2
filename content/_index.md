@@ -86,5 +86,5 @@ seo:
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
-page_css_class: 'y'
+page_css_class: yellow
 ---
