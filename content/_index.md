@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Grunts '
+title: Grunts USA
 white_header: true
 sections:
   - type: hero_section
